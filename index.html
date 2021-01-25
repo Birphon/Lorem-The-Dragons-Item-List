@@ -86,6 +86,7 @@
                         </div>
                     </div>
                 </div>
+		    <!-- Items -->
                 <div class="row" ng-show='selected == 1'>
                     <div class="col-md-12">
                         <div id="items">
@@ -115,6 +116,7 @@
                         </div>
                     </div>
                 </div>
+		    <!-- Events -->
                 <div class="row" ng-show='selected == 2'>
                     <div class="col-md-12">
                         <div id="events">
@@ -147,6 +149,7 @@
                         </div>
                     </div>
                 </div>
+		    <!-- Traits -->
                 <div class="row" ng-show='selected == 3'>
                     <div class="col-md-12">
                         <div id="events">
@@ -159,19 +162,11 @@
                             <p>
                                 <button type="button" class="btn btn-primary sort" data-sort="abr">
                                     Sort
-                                </button>
-                                <button type="button" class="btn btn-primary sort" data-sort="price">
-                                    Sort by Price
-                                </button>
-                                <button type="button" class="btn btn-primary sort" data-sort="karmatype">
-                                    Sort by Karma
-                                </button>
+				    </button>
                             </p>
-                            <table class="table events">
+                            <table class="table traits">
                                 <tr>
                                     <th scope="col" class="sort" data-sort="abr">Name</th>
-                                    <th scope="col" class="sort" data-sort="price">Price</th>
-                                    <th scope="col" class="sort" data-sort="karmatype">Karma</th>
                                 </tr>
                                 <tbody class="list">
                                 </tbody>
@@ -267,6 +262,23 @@
             var options = {
                 valueNames: ['abr', 'price', 'karmatype'],
                 item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="karmatype"></td></tr>'
+            };
+
+            var eventData = [];
+            $.each(data.incitems, function(index, value) {
+                if (value["price"] > 0) {
+                    eventData.push(value);
+                }
+            });
+
+            eventList = new List('events', options, eventData);
+        });
+
+        let eventList = null;
+        $.getJSON(traitListURL, function(data) {
+            var options = {
+                valueNames: ['abr'],
+                item: '<tr><td class="abr" scope="row"></td></tr>'
             };
 
             var eventData = [];
