@@ -274,7 +274,7 @@
             eventList = new List('events', options, eventData);
         });
 
-        let eventList = null;
+        let traitlist = null;
         $.getJSON(traitListURL, function(data) {
             var options = {
                 valueNames: ['abr'],
@@ -288,7 +288,7 @@
                 }
             });
 
-            eventList = new List('events', options, eventData);
+            traitlist = new List('traits', options, eventData);
         });
 
         $("#item-price-min").keyup(function() {
@@ -312,7 +312,7 @@
                 }
                 return allow;
             });
-	    eventList.filter(function(item) {
+	        eventList.filter(function(item) {
                 var allow = true;
                 if (minPrice != "" && parseInt(item.values().price) < minPrice) {
                     allow = false;
