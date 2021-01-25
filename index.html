@@ -278,20 +278,25 @@
             eventList = new List('events', options, eventData);
         });
 
-        let traitlist = null;
+        $("#item-price-min").keyup(function() {
+            updateItemFilter();
+        });
+
+        let traitslist = null;
         $.getJSON(traitListURL, function(data) {
             var options = {
-                valueNames: ['abr'],
-                item: '<tr><td class="abr" scope="row"></td></tr>'
+                valueNames: ['abr', 'price'],
+                item: '<tr><td class="abr" scope="row"></td><td class="price"></td></tr>'
             };
 
+            var traitData = [];
             $.each(data.traits, function(index, value) {
-        if (value["price"] > 0) {
-            eventData.push(value)
-        }
-        }
+                if (value["price"] > 0) {
+                    eventData.push(value);
+                }
+            });
 
-            traitlist = new List('traits', options, traitData);
+            eventList = new List('traits', options, traitData);
         });
 
         $("#item-price-min").keyup(function() {
