@@ -314,6 +314,11 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "Toxic Fallout",
+		"price": 20000,
+		"karmatype": "Bad"
 	}
 	],
 	"total": 63
