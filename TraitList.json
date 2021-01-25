@@ -1,211 +1,280 @@
 {
 	"traits" : [
 	{
-		"abr": "Annoying voice"
+		"abr": "Annoying voice",
+        "desc": ""
 	},
 	{
-		"abr": "Ascentric"
+		"abr": "Ascentric",
+        "desc": ""
 	},
 	{
-		"abr": "Asexual"
+		"abr": "Asexual",
+        "desc": ""
 	},
 	{
-		"abr": "Beautiful"
+		"abr": "Beautiful",
+        "desc": ""
 	},
 	{
-		"abr": "Bisexual"
+		"abr": "Bisexual",
+        "desc": ""
 	},
 	{
-		"abr": "Bloodlust"
+		"abr": "Bloodlust",
+        "desc": ""
 	},
 	{
-		"abr": "Body purist"
+		"abr": "Body purist",
+        "desc": ""
 	},
 	{
-		"abr": "Brawler"
+		"abr": "Brawler",
+        "desc": ""
 	},
 	{
-		"abr": "Cannibal"
+		"abr": "Cannibal",
+        "desc": ""
 	},
 	{
-		"abr": "Careful shooter"
+		"abr": "Careful shooter",
+        "desc": ""
 	},
 	{
-		"abr": "Chemical fascination"
+		"abr": "Chemical fascination",
+        "desc": ""
 	},
 	{
-		"abr": "Chemical intrest"
+		"abr": "Chemical intrest",
+        "desc": ""
 	},
 	{
-		"abr": "Creepy breathing"
+		"abr": "Creepy breathing",
+        "desc": ""
 	},
 	{
-		"abr": "Depressive"
+		"abr": "Depressive",
+        "desc": ""
 	},
 	{
-		"abr": "Faithful"
+		"abr": "Faithful",
+        "desc": ""
 	},
 	{
-		"abr": "Fast learner"
+		"abr": "Fast learner",
+        "desc": ""
 	},
 	{
-		"abr": "Fast Walker"
+		"abr": "Fast Walker",
+        "desc": ""
 	},
 	{
-		"abr": "Gay"
+		"abr": "Gay",
+        "desc": ""
 	},
 	{
-		"abr": "Gormound"
+		"abr": "Gormound",
+        "desc": ""
 	},
 	{
-		"abr": "Great memory"
+		"abr": "Great memory",
+        "desc": ""
 	},
 	{
-		"abr": "Greedy"
+		"abr": "Greedy",
+        "desc": ""
 	},
 	{
-		"abr": "Hard worker"
+		"abr": "Hard worker",
+        "desc": ""
 	},
 	{
-		"abr": "Industrious"
+		"abr": "Industrious",
+        "desc": ""
 	},
 	{
-		"abr": "Iron-willed"
+		"abr": "Iron-willed",
+        "desc": ""
 	},
 	{
-		"abr": "Jellous"
+		"abr": "Jellous",
+        "desc": ""
 	},
 	{
-		"abr": "Jogger"
+		"abr": "Jogger",
+        "desc": ""
 	},
 	{
-		"abr": "Kind"
+		"abr": "Kind",
+        "desc": ""
 	},
 	{
-		"abr": "Lazy"
+		"abr": "Lazy",
+        "desc": ""
 	},
 	{
-		"abr": "Masochist"
+		"abr": "Masochist",
+        "desc": ""
 	},
 	{
-		"abr": "Misandrist"
+		"abr": "Misandrist",
+        "desc": ""
 	},
 	{
-		"abr": "Misogynist"
+		"abr": "Misogynist",
+        "desc": ""
 	},
 	{
-		"abr": "Neurotic"
+		"abr": "Neurotic",
+        "desc": ""
 	},
 	{
-		"abr": "Night owl"
+		"abr": "Night owl",
+        "desc": ""
 	},
 	{
-		"abr": "Nimble"
+		"abr": "Nimble",
+        "desc": ""
 	},
 	{
-		"abr": "Nudist"
+		"abr": "Nudist",
+        "desc": ""
 	},
 	{
-		"abr": "Optimist"
+		"abr": "Optimist",
+        "desc": ""
 	},
 	{
-		"abr": "Pessimist"
+		"abr": "Pessimist",
+        "desc": ""
 	},
 	{
-		"abr": "Philanderer"
+		"abr": "Philanderer",
+        "desc": ""
 	},
 	{
-		"abr": "Polyamorous"
+		"abr": "Polyamorous",
+        "desc": ""
 	},
 	{
-		"abr": "Pretty"
+		"abr": "Pretty",
+        "desc": ""
 	},
 	{
-		"abr": "Psychically deaf"
+		"abr": "Psychically deaf",
+        "desc": ""
 	},
 	{
-		"abr": "Psychically dull"
+		"abr": "Psychically dull",
+        "desc": ""
 	},
 	{
-		"abr": "Psychically hypersensitive"
+		"abr": "Psychically hypersensitive",
+        "desc": ""
 	},
 	{
-		"abr": "Psychically sensitive"
+		"abr": "Psychically sensitive",
+        "desc": ""
 	},
 	{
-		"abr": "Psychopath"
+		"abr": "Psychopath",
+        "desc": ""
 	},
 	{
-		"abr": "Pyromaniac
+		"abr": "Pyromaniac",
+        "desc": ""
 	},
 	{
-		"abr": "Quick sleeper"
+		"abr": "Quick sleeper",
+        "desc": ""
 	},
 	{
-		"abr": "Sanguine"
+		"abr": "Sanguine",
+        "desc": ""
 	},
 	{
-		"abr": "Sickly"
+		"abr": "Sickly",
+        "desc": ""
 	},
 	{
-		"abr": "Slothful"
+		"abr": "Slothful",
+        "desc": ""
 	},
 	{
-		"abr": "Slow learner"
+		"abr": "Slow learner",
+        "desc": ""
 	},
 	{
-		"abr": "Slowpoke
+		"abr": "Slowpoke",
+        "desc": ""
 	},
 	{
-		"abr": "Staggeringly ugly"
+		"abr": "Staggeringly ugly",
+        "desc": ""
 	},
 	{
-		"abr": "Steadfast"
+		"abr": "Steadfast",
+        "desc": ""
 	},
 	{
-		"abr": "Straight"
+		"abr": "Straight",
+        "desc": ""
 	},
 	{
-		"abr": "Super-immune"
+		"abr": "Super-immune",
+        "desc": ""
 	},
 	{
-		"abr": "Teetotaler"
+		"abr": "Teetotaler",
+        "desc": ""
 	},
 	{
-		"abr": "Too smart"
+		"abr": "Too smart",
+        "desc": ""
 	},
 	{
-		"abr": "Tortured artist"
+		"abr": "Tortured artist",
+        "desc": ""
 	},
 	{
-		"abr": "Tough"
+		"abr": "Tough",
+        "desc": ""
 	},
 	{
-		"abr": "Transhumanist"
+		"abr": "Transhumanist",
+        "desc": ""
 	},
 	{
-		"abr": "Trigger-happy"
+		"abr": "Trigger-happy",
+        "desc": ""
 	},
 	{
-		"abr": "Ugly"
+		"abr": "Ugly",
+        "desc": ""
 	},
 	{
-		"abr": "Undergrounder"
+		"abr": "Undergrounder",
+        "desc": ""
 	},
 	{
-		"abr": "Very neurotic"
+		"abr": "Very neurotic",
+        "desc": ""
 	},
 	{
-		"abr": "Volatile"
+		"abr": "Volatile",
+        "desc": ""
 	},
 	{
-		"abr": "Wimp"
+		"abr": "Wimp",
+        "desc": ""
 	},
 	{
-		"abr": "Xenophile"
+		"abr": "Xenophile",
+        "desc": ""
 	},
 	{
-		"abr": "Xenophobe"
+		"abr": "Xenophobe",
+        "desc": ""
 	}
     ],
     "total": 69
