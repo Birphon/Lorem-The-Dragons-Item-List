@@ -281,14 +281,12 @@
                 item: '<tr><td class="abr" scope="row"></td></tr>'
             };
 
-            var eventData = [];
-            $.each(data.incitems, function(index, value) {
-                if (value["price"] > 0) {
+            var traitData = [];
+            $.each(data.traits, function(index, value) {
                     eventData.push(value);
-                }
-            });
+                });
 
-            traitlist = new List('traits', options, eventData);
+            traitlist = new List('traits', options, traitData);
         });
 
         $("#item-price-min").keyup(function() {
