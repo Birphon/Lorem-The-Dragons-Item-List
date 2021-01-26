@@ -14,79 +14,79 @@
 	},
 	{
 		"abr": "advancedbionicarm",
-		"price": 3450,
+		"price": 4950,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicArm"
 	},
 	{
 		"abr": "advancedbionicear",
-		"price": 2075,
+		"price": 3075,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicEar"
 	},
 	{
 		"abr": "advancedbioniceye",
-		"price": 2150,
+		"price": 3650,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicEye"
 	},
 	{
 		"abr": "advancedbionicfoot",
-		"price": 2042,
+		"price": 3042,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicFoot"
 	},
 	{
 		"abr": "advancedbionichand",
-		"price": 2042,
+		"price": 3042,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicHand"
 	},
 	{
 		"abr": "advancedbionicjaw",
-		"price": 1967,
+		"price": 2467,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicJaw"
 	},
 	{
 		"abr": "advancedbionicleg",
-		"price": 3450,
+		"price": 4450,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicLeg"
 	},
 	{
 		"abr": "advancedbionicspine",
-		"price": 2733,
+		"price": 3233,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicSpine"
 	},
 	{
 		"abr": "advancedchair",
-		"price": 1267,
+		"price": 2267,
 		"category": "Furniture",
 		"defname": "Seat_AdvChair"
 	},
 	{
 		"abr": "advancedcomponent",
-		"price": 333,
+		"price": 1333,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
 	{
 		"abr": "advanceddoublebed",
-		"price": 1483,
+		"price": 2983,
 		"category": "Furniture",
 		"defname": "Bed_AdvDoubleBed"
 	},
 	{
 		"abr": "advancedpowerarm",
-		"price": 5225,
+		"price": 6225,
 		"category": "Ultratech",
 		"defname": "AdvancedPowerArm"
 	},
 	{
 		"abr": "advancedpowerclaw",
-		"price": 2267,
+		"price": 3767,
 		"category": "Ultratech",
 		"defname": "AdvancedPowerClaw"
 	},
@@ -134,7 +134,7 @@
 	},
 	{
 		"abr": "alpaca",
-		"price": 583,
+		"price": 733,
 		"category": "Animal",
 		"defname": "Alpaca"
 	},
@@ -152,7 +152,7 @@
 	},
 	{
 		"abr": "alphabeaver",
-		"price": 417,
+		"price": 567,
 		"category": "Animal",
 		"defname": "Alphabeaver"
 	},
@@ -218,31 +218,31 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": 5167,
+		"price": 8667,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheraser",
-		"price": 3333,
+		"price": 6833,
 		"category": "Artifacts",
 		"defname": "VFEI_Artifacts_ArchotechEraser"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 5167,
+		"price": 8167,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 5167,
+		"price": 9167,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
 	{
 		"abr": "archotechshieldbelt",
-		"price": 2183,
+		"price": 5183,
 		"category": "Artifacts",
 		"defname": "VFEI_Apparel_ArchotechShieldBelt"
 	},
@@ -254,19 +254,19 @@
 	},
 	{
 		"abr": "archotechteleporter",
-		"price": 1333,
+		"price": 5833,
 		"category": "Artifacts",
 		"defname": "VFEI_Artifacts_ArchotechTeleporter"
 	},
 	{
 		"abr": "arcticfox",
-		"price": 333,
+		"price": 483,
 		"category": "Animal",
 		"defname": "Fox_Arctic"
 	},
 	{
 		"abr": "arcticwolf",
-		"price": 583,
+		"price": 733,
 		"category": "Animal",
 		"defname": "Wolf_Arctic"
 	},
@@ -338,31 +338,31 @@
 	},
 	{
 		"abr": "auxiliaryai(agricultural)",
-		"price": 5833,
+		"price": 7333,
 		"category": "Archotech",
 		"defname": "FarmerCore"
 	},
 	{
 		"abr": "auxiliaryai(constructing)",
-		"price": 5833,
+		"price": 7333,
 		"category": "Archotech",
 		"defname": "ConstructorCore"
 	},
 	{
 		"abr": "auxiliaryai(diplomatic)",
-		"price": 5833,
+		"price": 7333,
 		"category": "Archotech",
 		"defname": "DiplomatCore"
 	},
 	{
 		"abr": "auxiliaryai(medical)",
-		"price": 5833,
+		"price": 7833,
 		"category": "Archotech",
 		"defname": "DoctorCore"
 	},
 	{
 		"abr": "auxiliaryai(mining)",
-		"price": 5833,
+		"price": 8333,
 		"category": "Archotech",
 		"defname": "MinerCore"
 	},
@@ -566,7 +566,7 @@
 	},
 	{
 		"abr": "bison",
-		"price": 583,
+		"price": 733,
 		"category": "Animal",
 		"defname": "Bison"
 	},
@@ -596,7 +596,7 @@
 	},
 	{
 		"abr": "boomalope",
-		"price": 583,
+		"price": 733,
 		"category": "Animal",
 		"defname": "Boomalope"
 	},
@@ -608,7 +608,7 @@
 	},
 	{
 		"abr": "boomrat",
-		"price": 167,
+		"price": 417,
 		"category": "Animal",
 		"defname": "Boomrat"
 	},
@@ -686,7 +686,7 @@
 	},
 	{
 		"abr": "capybara",
-		"price": 250,
+		"price": 400,
 		"category": "Animal",
 		"defname": "Capybara"
 	},
@@ -704,7 +704,7 @@
 	},
 	{
 		"abr": "caribou",
-		"price": 500,
+		"price": 650,
 		"category": "Animal",
 		"defname": "Caribou"
 	},
@@ -716,19 +716,19 @@
 	},
 	{
 		"abr": "cassowary",
-		"price": 333,
+		"price": 483,
 		"category": "Animal",
 		"defname": "Cassowary"
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
-		"price": 32,
+		"price": 182,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized"
 	},
 	{
 		"abr": "cat",
-		"price": 167,
+		"price": 467,
 		"category": "Animal",
 		"defname": "Cat"
 	},
@@ -896,13 +896,13 @@
 	},
 	{
 		"abr": "chicken",
-		"price": 83,
+		"price": 333,
 		"category": "Animal",
 		"defname": "Chicken"
 	},
 	{
 		"abr": "chickenegg(fert.)",
-		"price": 12,
+		"price": 162,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized"
 	},
@@ -920,7 +920,7 @@
 	},
 	{
 		"abr": "chinchilla",
-		"price": 250,
+		"price": 500,
 		"category": "Animal",
 		"defname": "Chinchilla"
 	},
@@ -1004,13 +1004,13 @@
 	},
 	{
 		"abr": "cobra",
-		"price": 250,
+		"price": 500,
 		"category": "Animal",
 		"defname": "Cobra"
 	},
 	{
 		"abr": "cobraegg(fert.)",
-		"price": 67,
+		"price": 217,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized"
 	},
@@ -1106,7 +1106,7 @@
 	},
 	{
 		"abr": "cow",
-		"price": 500,
+		"price": 750,
 		"category": "Animal",
 		"defname": "Cow"
 	},
@@ -1160,7 +1160,7 @@
 	},
 	{
 		"abr": "deer",
-		"price": 417,
+		"price": 667,
 		"category": "Animal",
 		"defname": "Deer"
 	},
@@ -1208,7 +1208,7 @@
 	},
 	{
 		"abr": "donkey",
-		"price": 533,
+		"price": 783,
 		"category": "Animal",
 		"defname": "Donkey"
 	},
@@ -1268,7 +1268,7 @@
 	},
 	{
 		"abr": "dromedary",
-		"price": 500,
+		"price": 750,
 		"category": "Animal",
 		"defname": "Dromedary"
 	},
@@ -1304,13 +1304,13 @@
 	},
 	{
 		"abr": "duck",
-		"price": 100,
+		"price": 350,
 		"category": "Animal",
 		"defname": "Duck"
 	},
 	{
 		"abr": "duckegg(fert.)",
-		"price": 12,
+		"price": 162,
 		"category": "Eggs (fert.)",
 		"defname": "EggDuckFertilized"
 	},
@@ -1400,7 +1400,7 @@
 	},
 	{
 		"abr": "elephant",
-		"price": 1000,
+		"price": 1250,
 		"category": "Animal",
 		"defname": "Elephant"
 	},
@@ -1424,7 +1424,7 @@
 	},
 	{
 		"abr": "elk",
-		"price": 500,
+		"price": 750,
 		"category": "Animal",
 		"defname": "Elk"
 	},
@@ -1496,13 +1496,13 @@
 	},
 	{
 		"abr": "emu",
-		"price": 333,
+		"price": 583,
 		"category": "Animal",
 		"defname": "Emu"
 	},
 	{
 		"abr": "emuegg(fert.)",
-		"price": 30,
+		"price": 130,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized"
 	},
@@ -1562,7 +1562,7 @@
 	},
 	{
 		"abr": "fennecfox",
-		"price": 333,
+		"price": 583,
 		"category": "Animal",
 		"defname": "Fox_Fennec"
 	},
@@ -1760,7 +1760,7 @@
 	},
 	{
 		"abr": "gazelle",
-		"price": 250,
+		"price": 500,
 		"category": "Animal",
 		"defname": "Gazelle"
 	},
@@ -1772,7 +1772,7 @@
 	},
 	{
 		"abr": "gigalocust",
-		"price": 1333,
+		"price": 1583,
 		"category": "Animal",
 		"defname": "VFEI_Insectoid_Gigalocust"
 	},
@@ -1784,7 +1784,7 @@
 	},
 	{
 		"abr": "glitterworldmedicine",
-		"price": 83,
+		"price": 233,
 		"category": "Medicine",
 		"defname": "MedicineUltratech"
 	},
@@ -1802,7 +1802,7 @@
 	},
 	{
 		"abr": "goat",
-		"price": 333,
+		"price": 583,
 		"category": "Animal",
 		"defname": "Goat"
 	},
@@ -1832,13 +1832,13 @@
 	},
 	{
 		"abr": "goose",
-		"price": 150,
+		"price": 1000000,
 		"category": "Animal",
 		"defname": "Goose"
 	},
 	{
 		"abr": "gooseegg(fert.)",
-		"price": 18,
+		"price": 118,
 		"category": "Eggs (fert.)",
 		"defname": "EggGooseFertilized"
 	},
@@ -1904,13 +1904,13 @@
 	},
 	{
 		"abr": "grizzlybear",
-		"price": 1167,
+		"price": 1417,
 		"category": "Animal",
 		"defname": "Bear_Grizzly"
 	},
 	{
 		"abr": "guineapig",
-		"price": 250,
+		"price": 500,
 		"category": "Animal",
 		"defname": "GuineaPig"
 	},
@@ -1964,7 +1964,7 @@
 	},
 	{
 		"abr": "hare",
-		"price": 83,
+		"price": 483,
 		"category": "Animal",
 		"defname": "Hare"
 	},
@@ -2108,7 +2108,7 @@
 	},
 	{
 		"abr": "horse",
-		"price": 917,
+		"price": 1367,
 		"category": "Animal",
 		"defname": "Horse"
 	},
@@ -2162,7 +2162,7 @@
 	},
 	{
 		"abr": "husky",
-		"price": 417,
+		"price": 667,
 		"category": "Animal",
 		"defname": "Husky"
 	},
@@ -2192,7 +2192,7 @@
 	},
 	{
 		"abr": "ibex",
-		"price": 417,
+		"price": 667,
 		"category": "Animal",
 		"defname": "Ibex"
 	},
@@ -2240,13 +2240,13 @@
 	},
 	{
 		"abr": "iguana",
-		"price": 167,
+		"price": 467,
 		"category": "Animal",
 		"defname": "Iguana"
 	},
 	{
 		"abr": "iguanaegg(fert.)",
-		"price": 42,
+		"price": 142,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized"
 	},
@@ -2354,7 +2354,7 @@
 	},
 	{
 		"abr": "insectoidqueen",
-		"price": 2500,
+		"price": 2650,
 		"category": "Animal",
 		"defname": "VFEI_Insectoid_Queen"
 	},
@@ -2474,7 +2474,7 @@
 	},
 	{
 		"abr": "labradorretriever",
-		"price": 417,
+		"price": 617,
 		"category": "Animal",
 		"defname": "LabradorRetriever"
 	},
@@ -2522,7 +2522,7 @@
 	},
 	{
 		"abr": "larvae",
-		"price": 1667,
+		"price": 1817,
 		"category": "Animal",
 		"defname": "VFEI_Insectoid_Larvae"
 	},
@@ -2648,7 +2648,7 @@
 	},
 	{
 		"abr": "lynx",
-		"price": 417,
+		"price": 667,
 		"category": "Animal",
 		"defname": "Lynx"
 	},
@@ -2756,13 +2756,13 @@
 	},
 	{
 		"abr": "megapede",
-		"price": 1250,
+		"price": 1450,
 		"category": "Animal",
 		"defname": "VFEI_Insectoid_Megapede"
 	},
 	{
 		"abr": "megascarab",
-		"price": 167,
+		"price": 417,
 		"category": "Animal",
 		"defname": "Megascarab"
 	},
@@ -2774,7 +2774,7 @@
 	},
 	{
 		"abr": "megasloth",
-		"price": 1167,
+		"price": 1417,
 		"category": "Animal",
 		"defname": "Megasloth"
 	},
@@ -2792,7 +2792,7 @@
 	},
 	{
 		"abr": "megaspider",
-		"price": 833,
+		"price": 983,
 		"category": "Animal",
 		"defname": "Megaspider"
 	},
@@ -2846,7 +2846,7 @@
 	},
 	{
 		"abr": "monkey",
-		"price": 167,
+		"price": 417,
 		"category": "Animal",
 		"defname": "Monkey"
 	},
@@ -2882,7 +2882,7 @@
 	},
 	{
 		"abr": "muffalo",
-		"price": 500,
+		"price": 750,
 		"category": "Animal",
 		"defname": "Muffalo"
 	},
@@ -2906,7 +2906,7 @@
 	},
 	{
 		"abr": "musclestimulator",
-		"price": 4167,
+		"price": 6167,
 		"category": "Archotech",
 		"defname": "MuscleStimulator"
 	},
@@ -3014,13 +3014,13 @@
 	},
 	{
 		"abr": "ostrich",
-		"price": 417,
+		"price": 667,
 		"category": "Animal",
 		"defname": "Ostrich"
 	},
 	{
 		"abr": "ostrichegg(fert.)",
-		"price": 38,
+		"price": 188,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
 	},
@@ -3056,7 +3056,7 @@
 	},
 	{
 		"abr": "panther",
-		"price": 667,
+		"price": 917,
 		"category": "Animal",
 		"defname": "Panther"
 	},
@@ -3164,7 +3164,7 @@
 	},
 	{
 		"abr": "pig",
-		"price": 333,
+		"price": 583,
 		"category": "Animal",
 		"defname": "Pig"
 	},
@@ -3260,7 +3260,7 @@
 	},
 	{
 		"abr": "polarbear",
-		"price": 1167,
+		"price": 1417,
 		"category": "Animal",
 		"defname": "Bear_Polar"
 	},
@@ -3344,13 +3344,13 @@
 	},
 	{
 		"abr": "psychicanimalpulser",
-		"price": 1167,
+		"price": 5667,
 		"category": "Artifacts",
 		"defname": "PsychicAnimalPulser"
 	},
 	{
 		"abr": "psychicanimaltamer",
-		"price": 2500,
+		"price": 4500,
 		"category": "Artifacts",
 		"defname": "VFEI_Artifacts_PsychicAnimalTamer"
 	},
@@ -3368,7 +3368,7 @@
 	},
 	{
 		"abr": "psychicharmonizer",
-		"price": 1333,
+		"price": 3333,
 		"category": "Archotech",
 		"defname": "PsychicHarmonizer"
 	},
@@ -3380,7 +3380,7 @@
 	},
 	{
 		"abr": "psychicpacifier",
-		"price": 2500,
+		"price": 6000,
 		"category": "Artifacts",
 		"defname": "VFEI_Artifacts_PsychicPacifier"
 	},
@@ -3392,13 +3392,13 @@
 	},
 	{
 		"abr": "psychicreader",
-		"price": 1667,
+		"price": 4167,
 		"category": "Archotech",
 		"defname": "PsychicReader"
 	},
 	{
 		"abr": "psychicsensitizer",
-		"price": 1667,
+		"price": 5167,
 		"category": "Archotech",
 		"defname": "PsychicSensitizer"
 	},
@@ -3410,7 +3410,7 @@
 	},
 	{
 		"abr": "psychicsoothepulser",
-		"price": 1000,
+		"price": 3500,
 		"category": "Artifacts",
 		"defname": "PsychicSoothePulser"
 	},
@@ -3434,7 +3434,7 @@
 	},
 	{
 		"abr": "psylinkneuroformer",
-		"price": 4333,
+		"price": 7833,
 		"category": "Archotech",
 		"defname": "PsychicAmplifier"
 	},
@@ -3638,7 +3638,7 @@
 	},
 	{
 		"abr": "raccoon",
-		"price": 167,
+		"price": 467,
 		"category": "Animal",
 		"defname": "Raccoon"
 	},
@@ -3656,7 +3656,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": 458,
 		"category": "Animal",
 		"defname": "Rat"
 	},
@@ -3692,7 +3692,7 @@
 	},
 	{
 		"abr": "redfox",
-		"price": 333,
+		"price": 783,
 		"category": "Animal",
 		"defname": "Fox_Red"
 	},
@@ -3734,7 +3734,7 @@
 	},
 	{
 		"abr": "rhinoceros",
-		"price": 1167,
+		"price": 1617,
 		"category": "Animal",
 		"defname": "Rhinoceros"
 	},
@@ -3830,7 +3830,7 @@
 	},
 	{
 		"abr": "royalmegaspider",
-		"price": 1167,
+		"price": 1617,
 		"category": "Animal",
 		"defname": "VFEI_Insectoid_RoyalMegaspider"
 	},
@@ -3914,7 +3914,7 @@
 	},
 	{
 		"abr": "sheep",
-		"price": 350,
+		"price": 650,
 		"category": "Animal",
 		"defname": "Sheep"
 	},
@@ -4226,7 +4226,7 @@
 	},
 	{
 		"abr": "snowhare",
-		"price": 83,
+		"price": 683,
 		"category": "Animal",
 		"defname": "Snowhare"
 	},
@@ -4238,7 +4238,7 @@
 	},
 	{
 		"abr": "sonicinfestationrepeller",
-		"price": 3217,
+		"price": 5717,
 		"category": "Furniture",
 		"defname": "VFEI_SonicInfestationRepeller"
 	},
@@ -4256,7 +4256,7 @@
 	},
 	{
 		"abr": "spelopede",
-		"price": 333,
+		"price": 583,
 		"category": "Animal",
 		"defname": "Spelopede"
 	},
@@ -4280,7 +4280,7 @@
 	},
 	{
 		"abr": "squirrel",
-		"price": 58,
+		"price": 458,
 		"category": "Animal",
 		"defname": "Squirrel"
 	},
@@ -4490,7 +4490,7 @@
 	},
 	{
 		"abr": "tacticalcorneaimplant",
-		"price": 4167,
+		"price": 6667,
 		"category": "Archotech",
 		"defname": "TacticalCorneaImplant"
 	},
@@ -4694,7 +4694,7 @@
 	},
 	{
 		"abr": "thrumbo",
-		"price": 6667,
+		"price": 6817,
 		"category": "Animal",
 		"defname": "Thrumbo"
 	},
@@ -4724,7 +4724,7 @@
 	},
 	{
 		"abr": "timberwolf",
-		"price": 583,
+		"price": 833,
 		"category": "Animal",
 		"defname": "Wolf_Timber"
 	},
@@ -4760,13 +4760,13 @@
 	},
 	{
 		"abr": "tortoise",
-		"price": 333,
+		"price": 583,
 		"category": "Animal",
 		"defname": "Tortoise"
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
-		"price": 38,
+		"price": 188,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized"
 	},
@@ -4826,13 +4826,13 @@
 	},
 	{
 		"abr": "turkey",
-		"price": 167,
+		"price": 467,
 		"category": "Animal",
 		"defname": "Turkey"
 	},
 	{
 		"abr": "turkeyegg(fert.)",
-		"price": 18,
+		"price": 168,
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized"
 	},
@@ -4886,121 +4886,121 @@
 	},
 	{
 		"abr": "vanometricpowercell",
-		"price": 2000,
+		"price": 5000,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
 	{
 		"abr": "vat-grownboomtick",
-		"price": 167,
+		"price": 467,
 		"category": "Animal",
 		"defname": "VFEI_VatgrownBoomtick"
 	},
 	{
 		"abr": "vat-growncuterpillar",
-		"price": 750,
+		"price": 950,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownCuterpillar"
 	},
 	{
 		"abr": "vat-growngigalocust",
-		"price": 1083,
+		"price": 1233,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownGigalocust"
 	},
 	{
 		"abr": "vat-growngigascorpion",
-		"price": 833,
+		"price": 933,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownGigascorpion"
 	},
 	{
 		"abr": "vat-growngigawig",
-		"price": 750,
+		"price": 900,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownGigawig"
 	},
 	{
 		"abr": "vat-grownmegacricket",
-		"price": 292,
+		"price": 492,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownMegacricket"
 	},
 	{
 		"abr": "vat-grownmegapede",
-		"price": 1250,
+		"price": 1550,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownMegapede"
 	},
 	{
 		"abr": "vat-grownmegascarab",
-		"price": 167,
+		"price": 417,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownMegascarab"
 	},
 	{
 		"abr": "vat-grownmegaspider",
-		"price": 833,
+		"price": 933,
 		"category": "Animal",
 		"defname": "VFEI_VatgrownMegaspider"
 	},
 	{
 		"abr": "vat-grownmilkbeetle",
-		"price": 583,
+		"price": 683,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownMilkbeetle"
 	},
 	{
 		"abr": "vat-grownmonstrosity",
-		"price": 1250,
+		"price": 1400,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownMonstrosity"
 	},
 	{
 		"abr": "vat-grownprincess",
-		"price": 1500,
+		"price": 1650,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownPrincess"
 	},
 	{
 		"abr": "vat-grownroyallarva",
-		"price": 83,
+		"price": 333,
 		"category": "Animal",
 		"defname": "VFEI_VatgrownRoyalLarva"
 	},
 	{
 		"abr": "vat-grownroyalmaggot",
-		"price": 333,
+		"price": 533,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownRoyalMaggot"
 	},
 	{
 		"abr": "vat-grownspelopede",
-		"price": 333,
+		"price": 583,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownSpelopede"
 	},
 	{
 		"abr": "vat-grownspiderweaver",
-		"price": 333,
+		"price": 733,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownSpiderweaver"
 	},
 	{
 		"abr": "vat-growntitanbeetle",
-		"price": 917,
+		"price": 1117,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownTitanbeetle"
 	},
 	{
 		"abr": "vat-grownwargling",
-		"price": 833,
+		"price": 983,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownWargling"
 	},
 	{
 		"abr": "vat-grownworkerant",
-		"price": 333,
+		"price": 533,
 		"category": "Animal",
 		"defname": "VFEI_VatGrownWorkerAnt"
 	},
@@ -5198,7 +5198,7 @@
 	},
 	{
 		"abr": "wildboar",
-		"price": 333,
+		"price": 533,
 		"category": "Animal",
 		"defname": "WildBoar"
 	},
@@ -5252,7 +5252,7 @@
 	},
 	{
 		"abr": "yak",
-		"price": 533,
+		"price": 783,
 		"category": "Animal",
 		"defname": "Yak"
 	},
@@ -5270,7 +5270,7 @@
 	},
 	{
 		"abr": "yorkshireterrier",
-		"price": 167,
+		"price": 467,
 		"category": "Animal",
 		"defname": "YorkshireTerrier"
 	},
@@ -5282,10 +5282,94 @@
 	},
 	{
 		"abr": "zeushammer",
-		"price": 33333,
+		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
-	}
+	},
+	{
+		"abr": "guestadvancedbed",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "Bed_AdvBedGuest"
+	},
+	{
+		"abr": "guestadvanceddoublebed",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": 867,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
 	],
-	"total": 885
+	"total": 897
 }
