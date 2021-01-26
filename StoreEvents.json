@@ -76,6 +76,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "toxicfallout",
+		"price": 25000,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "volcanicwinter",
 		"price": 3200,
 		"karmatype": "Doom"
@@ -242,8 +247,8 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 5000,
-		"karmatype": "Bad"
+		"price": 7500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -314,12 +319,7 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "Toxic Fallout",
-		"price": 20000,
-		"karmatype": "Bad"
 	}
 	],
-	"total": 63
+	"total": 64
 }
