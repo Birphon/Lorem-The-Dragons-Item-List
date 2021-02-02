@@ -163,14 +163,18 @@
                                 <button type="button" class="btn btn-primary sort" data-sort="abr">
                                     Sort
                                 </button>
-                                <button type="button" class="btn btn-primary sort" data-sort="price">
-                                    Sort by Price
+                                <button type="button" class="btn btn-primary sort" data-sort="aprice">
+                                    Sort by Add Price
+                                </button>
+                                <button type="button" class="btn btn-primary sort" data-sort="rprice">
+                                    Sort by Remove Price
                                 </button>
                             </p>
                             <table class="table traits">
                                 <tr>
                                     <th scope="col" class="sort" data-sort="abr">Name</th>
-                                    <th scope="col" class="sort" data-sort="price">Price</th>
+                                    <th scope="col" class="sort" data-sort="aprice">Add Price</th>
+                                    <th scope="col" class="sort" data-sort="rprice">Remove Price</th>
                                 </tr>
                                 <tbody class="list">
                                 </tbody>
@@ -330,10 +334,21 @@
             
             traitlist.filter(function(item) {
                 var allow = true;
-                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
+                if (minPrice != "" && parseInt(item.values().aprice) < minPrice) {
                     allow = false;
                 }
-                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
+                if (maxPrice != "" && parseInt(item.values().aprice) > maxPrice) {
+                    allow = false;
+                }
+                return allow;
+            });
+            
+            traitlist.filter(function(item) {
+                var allow = true;
+                if (minPrice != "" && parseInt(item.values().rprice) < minPrice) {
+                    allow = false;
+                }
+                if (maxPrice != "" && parseInt(item.values().rprice) > maxPrice) {
                     allow = false;
                 }
                 return allow;
