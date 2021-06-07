@@ -1,12 +1,17 @@
 {
 	"traits" : [
 	{
-		"abr": "Annoying voice",
+		"abr": "Abrasive",
         "price": 3500,
 	    "rprice": 4000
 	},
 	{
-		"abr": "Ascentric",
+		"abr": "Annoying Voice",
+        "price": 3500,
+	    "rprice": 4000
+	},
+	{
+		"abr": "Ascentic",
         "price": 3500,
 	    "rprice": 4000
 	},
@@ -46,7 +51,7 @@
 	    "rprice": 4000
 	},
 	{
-		"abr": "Careful shooter",
+		"abr": "Careful Shooter",
         "price": 3500,
 	    "rprice": 4000
 	},
@@ -56,7 +61,7 @@
 	    "rprice": 4000
 	},
 	{
-		"abr": "Chemical intrest",
+		"abr": "Chemical interest",
         "price": 3500,
 	    "rprice": 4000
 	},
@@ -81,7 +86,12 @@
 	    "rprice": 4000
 	},
 	{
-		"abr": "Fast Walker",
+		"abr": "Fast walker",
+        "price": 3500,
+	    "rprice": 4000
+	},
+	{
+		"abr": "Fisherman",
         "price": 3500,
 	    "rprice": 4000
 	},
@@ -91,7 +101,7 @@
 	    "rprice": 4000
 	},
 	{
-		"abr": "Gormound",
+		"abr": "Gourmand",
         "price": 3500,
 	    "rprice": 4000
 	},
@@ -121,7 +131,7 @@
 	    "rprice": 4000
 	},
 	{
-		"abr": "Jellous",
+		"abr": "Jelous",
         "price": 3500,
 	    "rprice": 4000
 	},
@@ -152,6 +162,11 @@
 	},
 	{
 		"abr": "Misogynist",
+        "price": 3500,
+	    "rprice": 4000
+	},
+	{
+		"abr": "Nervous",
         "price": 3500,
 	    "rprice": 4000
 	},
@@ -246,12 +261,7 @@
 	    "rprice": 4000
 	},
 	{
-		"abr": "Slothful",
-        "price": 3500,
-	    "rprice": 4000
-	},
-	{
-		"abr": "Slow learner",
+		"abr": "Slow Learner",
         "price": 3500,
 	    "rprice": 4000
 	},
@@ -341,10 +351,10 @@
 	    "rprice": 4000
 	},
 	{
-		"abr": "Xenophobe",
+		"abr": "Xenophone",
         "price": 3500,
 	    "rprice": 4000
 	}
     ],
-    "total": 69
+    "total": 72
 }
